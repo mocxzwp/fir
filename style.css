@@ -1,0 +1,51 @@
+body {
+    background:black;
+
+
+}
+.header {
+    width: 100px;
+    border: solid 1px white;
+    height:100px;
+    width: 100%;
+    margin-bottom: 10px;
+}
+.header_logo{
+    background-color:yellow;
+    width: 200px;
+    height: 100%;
+    float : left;
+}
+.header_text{
+    color: white;
+    text-align:center ;
+    font-size:90px;
+    font-family: calibri;
+    font-weight: bold;
+}
+.token_outer{
+    
+    height: 260px;
+    width: 100%;
+    margin-top :120px;
+        
+}
+
+#token{
+    color: white;
+    font-size: 200px;
+    font-family: tahoma;
+    font-weight: bold;
+    text-align: center;
+
+    
+}
+.remarks{
+height:219px;
+color:white;
+text-align:center;
+font-size:50px;
+font-family:calibri;
+
+}
+
